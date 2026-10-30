@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DigitalPro//Boda Ariana y Edgar//ES
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:ariana-edgar-religiosa-tentativa-20261128@digitalpro
+DTSTAMP:20261030T030000Z
+DTSTART:20261128T160000Z
+SUMMARY:TENTATIVO - Ariana y Edgar - Ceremonia religiosa
+LOCATION:Iglesia San Juan de Dios - C. Esteban Arze entre Calama y Ladisla
+ o Cabrera - Cochabamba
+DESCRIPTION:Fecha y horario tentativos sujetos a confirmación. Propuesta 
+ inicial: 28 de noviembre de 2026. Confirmación por WhatsApp al 76468794.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ariana-edgar-civil-tentativa-20261128@digitalpro
+DTSTAMP:20261030T030000Z
+DTSTART:20261128T190000Z
+SUMMARY:TENTATIVO - Ariana y Edgar - Ceremonia civil
+LOCATION:Pista Indoor Cochabamba - Complejo Petrolero - C. El Torno - Coch
+ abamba
+DESCRIPTION:Fecha y horario tentativos sujetos a confirmación. Propuesta 
+ inicial: 28 de noviembre de 2026. Confirmación por WhatsApp al 76468794.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ariana-edgar-recepcion-tentativa-20261128@digitalpro
+DTSTAMP:20261030T030000Z
+DTSTART:20261128T230000Z
+SUMMARY:TENTATIVO - Ariana y Edgar - Recepción social
+LOCATION:Salón de eventos La Mansión - C. Miguel de Aguirre entre Buenos
+  Aires y Pje. Plazuela Aranjuez - Cochabamba
+DESCRIPTION:Fecha y horario tentativos sujetos a confirmación. Propuesta 
+ inicial: 28 de noviembre de 2026. Confirmación por WhatsApp al 76468794.
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

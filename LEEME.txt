@@ -1,0 +1,31 @@
+ARIANA Y EDGAR - NUESTRA BODA
+Modelo floral de Wilson y Yessica recuperado con fondo marfil, flores guindo/blancas, hojas verdes, detalles dorados y sobre con sello A&E.
+
+DATOS TENTATIVOS, NO CONFIRMADOS
+Propuesta inicial: sábado 28 de noviembre de 2026.
+12:00 Ceremonia religiosa - Iglesia San Juan de Dios.
+C. Esteban Arze entre Calama y Ladislao Cabrera.
+15:00 Ceremonia civil - Pista Indoor Cochabamba, Complejo Petrolero.
+C. El Torno. La foto del paracaídas acompaña este apartado.
+19:00 Recepción - Salón de eventos La Mansión.
+C. Miguel de Aguirre entre Buenos Aires y Pje. Plazuela Aranjuez.
+Los botones de mapas buscan por nombre y dirección; no se han inventado pines GPS.
+
+CONFIRMACIÓN
+WhatsApp directo al +591 76468794, sin formularios.
+DigitalPro: +591 79352293.
+
+FECHA DEFINITIVA
+Los datos centrales están en configuracion.js. La fecha y cada horario son tentativos. Cuando se confirmen, actualizar también los textos sobre la condición tentativa y el archivo nuestra-boda-tentativa.ics; no basta con cambiar únicamente un texto visible.
+
+PUBLICACIÓN EN GITHUB PAGES
+Subir el contenido de esta carpeta a la raíz del repositorio. Incluir index.html, estilo.css, invitacion.js, configuracion.js, nuestra-boda-tentativa.ics, assets y .nojekyll. No subir solo el ZIP sin descomprimir.
+
+FOTOGRAFÍAS Y MÚSICA
+Cuatro fotos proporcionadas por la familia. Se conservan las fotos y sus proporciones; no se cambiaron rostros ni fondos. Conversión WebP para carga más ligera.
+Audio: León Larregui - xortado.mp3.mpeg proporcionado por el usuario, convertido a MP3.
+Las flores y el paisaje se recuperaron de la invitación de Wilson y Yessica.
+Tipografías locales Lora, Nunito y Cormorant Garamond Italic. Licencias en assets.
+
+INTERACCIONES
+Sobre animado, música con pausa, pétalos, apariciones al desplazarse, paracaídas animado, calendario tentativo descargable, cuenta regresiva, tres botones de mapas, álbum con tres fotos y ampliación de las cuatro fotos, compartir/copiar, volver al inicio y contacto de DigitalPro.

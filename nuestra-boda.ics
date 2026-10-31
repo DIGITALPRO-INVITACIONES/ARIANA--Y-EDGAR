@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DigitalPro//Boda Ariana y Edgar//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ariana-edgar-civil-20261212@digitalpro
+DTSTAMP:20261031T120000Z
+DTSTART:20261212T133000Z
+SUMMARY:Ariana y Edgar - Ceremonia civil
+LOCATION:Pista Indoor Cochabamba - Complejo Petrolero - C. El Torno - Coch
+ abamba
+DESCRIPTION:Boda de Ariana y Edgar. 12 de diciembre de 2026. Civil 09:30. 
+ Religiosa 14:30. Recepción 18:00. Brindis 19:00. Cena 20:00. Fiesta 20:1
+ 5. Celebración solo para adultos. Confirmaciones: 76468794.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ariana-edgar-religiosa-20261212@digitalpro
+DTSTAMP:20261031T120000Z
+DTSTART:20261212T183000Z
+SUMMARY:Ariana y Edgar - Ceremonia religiosa
+LOCATION:Iglesia San Juan de Dios - C. Esteban Arze entre Calama y Ladisla
+ o Cabrera - Cochabamba
+DESCRIPTION:Boda de Ariana y Edgar. 12 de diciembre de 2026. Civil 09:30. 
+ Religiosa 14:30. Recepción 18:00. Brindis 19:00. Cena 20:00. Fiesta 20:1
+ 5. Celebración solo para adultos. Confirmaciones: 76468794.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ariana-edgar-recepcion-20261212@digitalpro
+DTSTAMP:20261031T120000Z
+DTSTART:20261212T220000Z
+SUMMARY:Ariana y Edgar - Recepción social
+LOCATION:Salón de eventos La Mansión - C. Miguel de Aguirre entre Buenos
+  Aires y Pje. Plazuela Aranjuez - Cochabamba
+DESCRIPTION:Boda de Ariana y Edgar. 12 de diciembre de 2026. Civil 09:30. 
+ Religiosa 14:30. Recepción 18:00. Brindis 19:00. Cena 20:00. Fiesta 20:1
+ 5. Celebración solo para adultos. Confirmaciones: 76468794.
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

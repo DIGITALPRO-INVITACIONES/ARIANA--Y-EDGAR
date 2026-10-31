@@ -1,0 +1,19 @@
+EDICIÓN DE IMÁGENES Y MARCO BOTÁNICO
+Método: herramienta integrada image_gen. Fotos editadas para retirar B612; originales preservados. Marco nuevo con transparencia real. Imágenes inspeccionadas antes y después.
+
+ARCHIVOS FINALES
+assets/recuerdo-juntos-limpia.webp
+assets/recuerdo-celebrando-limpia.webp
+assets/marco-botanico.webp
+
+El marco utiliza cuatro recortes de esquina a escala fija y proporción original, unidos por un contorno dorado en CSS. No se estiran imágenes. El espacio alrededor de las fotos es transparente y conserva el marfil de la invitación. El QR conserva sus módulos negros, fondo blanco y margen; su texto explicativo se integra en la tarjeta, no dentro del código.
+
+PROMPT 1
+Use case: precise-object-edit. Edit target: the attached family couple photograph. Remove ONLY the white B612 camera-app watermark and its small white stars in the lower right corner, seamlessly reconstructing the exact red/burgundy jacket sleeve and any tiny background immediately underneath. Critical invariants: preserve the faces of both people exactly, their identities, expressions, glasses, skin texture, hair, jewelry, hands, clothes, pose, framing, colors, background and original low-resolution photo character. Do not beautify, restyle, sharpen faces, recolor or change anything outside the small lower-right watermark area. Output the same full 4:3 composition. No added text or watermark.
+
+PROMPT 2
+Use case: precise-object-edit. Edit target: the attached photograph of the couple seated at a celebration. Remove ONLY the white B612 camera-app watermark and the small white stars at the lower right corner, seamlessly reconstructing the red/pink tablecloth and edge of the white napkin immediately under that watermark. Critical invariants: preserve both faces exactly, their identities, expressions, glasses, hair, skin, hands, clothing, pose, composition, photo color, all room details and original casual photo quality. Do not beautify, sharpen, retouch faces, change colors or replace the background. Change no area except the small lower-right watermark region. Output the entire same 4:3 photograph. No added text or marks.
+
+PROMPT DEL MARCO
+Use case: stylized-concept. Asset type: a refined portrait botanical wedding photo frame overlay, 4:5 aspect ratio, transparent PNG. Design a complete continuous delicate oval-arched rectangular frame with a very fine antique champagne-gold double rim; natural eucalyptus/sage leaves and fine botanical vines grow organically along the rim, interspersed with a few realistic watercolor burgundy garden roses and ivory peonies. The florals must be integrated into the flowing perimeter, not little detached bouquets or pasted rectangular strips. Airy high-end fine-art wedding stationery, harmonious burgundy, ivory, sage green, muted gold. Keep all artwork only in the outer 9 percent of the canvas; preserve the central 82 percent width by 82 percent height as a large fully transparent empty photo opening. Outer corners soft and graceful, gently arched upper rim, not heavy ornamental baroque, not funeral. Truly transparent background and central aperture; no dark fills, no gray checkerboard drawn in the art, no text, no photos, no people, no watermarks, no mockup. Small roses are realistically painted, delicate leaves connect them into one cohesive frame.
+

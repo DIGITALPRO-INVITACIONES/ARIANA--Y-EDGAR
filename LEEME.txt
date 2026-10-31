@@ -1,31 +1,47 @@
-ARIANA Y EDGAR - NUESTRA BODA
-Modelo floral de Wilson y Yessica recuperado con fondo marfil, flores guindo/blancas, hojas verdes, detalles dorados y sobre con sello A&E.
+ARIANA Y EDGAR - VERSIÓN FINAL
+Sábado 12 de diciembre de 2026 · Cochabamba, Bolivia.
 
-DATOS TENTATIVOS, NO CONFIRMADOS
-Propuesta inicial: sábado 28 de noviembre de 2026.
-12:00 Ceremonia religiosa - Iglesia San Juan de Dios.
+ITINERARIO DEFINITIVO (HORA LOCAL)
+09:30 Ceremonia civil - Pista Indoor Cochabamba, Complejo Petrolero.
+C. El Torno.
+14:30 Ceremonia religiosa - Iglesia San Juan de Dios.
 C. Esteban Arze entre Calama y Ladislao Cabrera.
-15:00 Ceremonia civil - Pista Indoor Cochabamba, Complejo Petrolero.
-C. El Torno. La foto del paracaídas acompaña este apartado.
-19:00 Recepción - Salón de eventos La Mansión.
+18:00 Recepción social - Salón de eventos La Mansión.
 C. Miguel de Aguirre entre Buenos Aires y Pje. Plazuela Aranjuez.
-Los botones de mapas buscan por nombre y dirección; no se han inventado pines GPS.
+19:00 Brindis.
+20:00 Cena.
+20:15 Disfruta de la fiesta.
+
+FAMILIA Y TEXTO
+Se conserva la información de los padres y los padrinos, con las tres cruces junto a los nombres de quienes han fallecido.
+Nueva sección de la hijita de la pareja, Zoe Ainara, con la foto facilitada.
+La frase señalada se sustituyó por el texto de Mateo 19:5-6 proporcionado en la imagen.
+Fotos con marcos florales guindo, blancos y dorados; rostros y fotografías originales preservados.
+Aviso: celebración solo para adultos, sin niños.
 
 CONFIRMACIÓN
-WhatsApp directo al +591 76468794, sin formularios.
+WhatsApp directo al +591 76468794. Sin formulario.
 DigitalPro: +591 79352293.
 
-FECHA DEFINITIVA
-Los datos centrales están en configuracion.js. La fecha y cada horario son tentativos. Cuando se confirmen, actualizar también los textos sobre la condición tentativa y el archivo nuestra-boda-tentativa.ics; no basta con cambiar únicamente un texto visible.
+ÁLBUM COMPARTIDO DE INVITADOS
+QR: assets/qr-album-boda.png.
+Enlace exacto: https://drive.google.com/drive/folders/1nxyPLSZe3ROdSSySwRFTnzpIpEJMlsro?usp=sharing
+Incluye botón para abrir el álbum en el mismo teléfono y enlace para descargar el QR.
+Se revisaron los permisos en la interfaz de Drive: cualquier persona con el vínculo puede editar; se requiere iniciar sesión en Google. No se modificaron permisos ni se subieron archivos durante la comprobación.
+QR negro sobre blanco con margen de seguridad. Comprobado mediante lector independiente zxing-cpp a 540, 250 y 220 píxeles: el contenido coincide con el enlace exacto.
 
-PUBLICACIÓN EN GITHUB PAGES
-Subir el contenido de esta carpeta a la raíz del repositorio. Incluir index.html, estilo.css, invitacion.js, configuracion.js, nuestra-boda-tentativa.ics, assets y .nojekyll. No subir solo el ZIP sin descomprimir.
+CALENDARIO
+nuestra-boda.ics contiene las tres ceremonias confirmadas. Hora de Bolivia UTC-4.
+La cuenta regresiva apunta a la primera ceremonia: 12/12/2026 a las 09:30.
+
+PUBLICAR EN GITHUB PAGES
+Descomprimir el ZIP y subir todos los archivos a la raíz del repositorio: index.html, estilo.css, invitacion.js, configuracion.js, nuestra-boda.ics, assets y .nojekyll.
+La carpeta de fotos de Drive debe conservar su enlace y permiso de edición para que los invitados puedan subir sus fotos.
 
 FOTOGRAFÍAS Y MÚSICA
-Cuatro fotos proporcionadas por la familia. Se conservan las fotos y sus proporciones; no se cambiaron rostros ni fondos. Conversión WebP para carga más ligera.
-Audio: León Larregui - xortado.mp3.mpeg proporcionado por el usuario, convertido a MP3.
-Las flores y el paisaje se recuperaron de la invitación de Wilson y Yessica.
-Tipografías locales Lora, Nunito y Cormorant Garamond Italic. Licencias en assets.
+Cuatro fotos originales de la pareja y la nueva foto de Zoe Ainara proporcionadas por la familia, convertidas a WebP sin alterar identidades ni fondos.
+Audio suministrado: León Larregui - xortado.mp3.mpeg, convertido a MP3.
+Flores y paisaje recuperados del modelo de Wilson y Yessica. Se conserva la paleta marfil, guindo, verde y dorado.
 
-INTERACCIONES
-Sobre animado, música con pausa, pétalos, apariciones al desplazarse, paracaídas animado, calendario tentativo descargable, cuenta regresiva, tres botones de mapas, álbum con tres fotos y ampliación de las cuatro fotos, compartir/copiar, volver al inicio y contacto de DigitalPro.
+REVISIÓN VISUAL 3
+Se sustituyeron los ramos repetidos en las esquinas por un marco botánico continuo, transparente, adaptable a retratos y paisajes. Las fotos sin B612 se guardaron en archivos nuevos y las originales se preservan localmente fuera de la entrega. El QR lleva dentro de su tarjeta un título que explica para qué sirve, con mensaje, botón e instrucciones de subida. No se cambiaron fechas, horarios, nombres ni contactos. Prompts y método de edición en EDICION-DISENO.txt.
